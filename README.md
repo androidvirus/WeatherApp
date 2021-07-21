@@ -1,5 +1,11 @@
 # WeatherApp with Retrofit and kotlin
 <b>Implementation of Weather Live app by using kotlin </b>
+
+![Screenshot_20210721_235124_com google android packageinstaller](https://user-images.githubusercontent.com/6704539/126552544-b8e90301-e7be-42ea-ba23-37832dac8a9c.jpg)
+
+![Screenshot_20210721_235131_com synchronoss harshesh assignment](https://user-images.githubusercontent.com/6704539/126552568-9ad567b6-d1bb-4509-9eb9-f13bca100b7c.jpg)
+
+
 <br>
 <ol type="1">
 <li>
