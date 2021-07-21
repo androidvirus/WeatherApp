@@ -1,5 +1,5 @@
 # WeatherApp with Retrofit and kotlin
-<b>Implementation of retrofit by using kotlin for understading </b>
+<b>Implementation of Weather Live app by using kotlin </b>
 <br>
 <ol type="1">
 <li>
