@@ -42,13 +42,12 @@ In the @GET or @Post HTTP request method there can be different kind of paramete
 Retrofit automatically serialises the JSON response using a POJO(Plain Old Java Object) which must be defined in advanced for the JSON Structure. To serialise JSON we need a converter to convert it into Gson first. 
 </li>
 <li>
-Gson : <ul>
+Job Scheduler : <ul>
 <li>
-Json is a FORMAT.
+This Weather App is fetch data with the help of Wether API and that data fetch in every 2 hours with the help of Job Scheduler and update the UI according to the response.
   </li>
 <li>
 We need convert our data when it comes through Api so
-Object ---> Json OR Json ---> object(POJO) so thats why we need Gson.
   </li>
   </ul>
   
